@@ -7,7 +7,9 @@ The tasks in preparation include:
 * Understanding libraries for instance numpy and matplotlib
 Collaborators are: *Rafaela Amado* and *Edmumd Dable-Health*
 
+|Types of Neural Networks|
+|------------------------|
 |Convolution|Recurrent|
 |-----------|---------|
 |Multilayer Perception|
-|---------------------|
+
