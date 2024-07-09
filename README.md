@@ -9,7 +9,7 @@ Collaborators are: *Rafaela Amado* and *Edmumd Dable-Health*
 
 |Types of Neural Networks|
 |------------------------|
-|Convolution|Recurrent|
-|-----------|---------|
+|Convolution|
+|Recurrent|
 |Multilayer Perception|
 
