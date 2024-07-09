@@ -5,3 +5,9 @@ The tasks in preparation include:
 * Applications of CNNs such as digit recognisation
 * Analysis of logistic regression
 * Understanding libraries for instance numpy and matplotlib
+Collaborators are: *Rafaela Amado* and *Edmumd Dable-Health*
+
+|Convolution|Recurrent|
+|-----------|---------|
+|Multilayer Perception|
+|---------------------|
